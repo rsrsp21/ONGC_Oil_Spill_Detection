@@ -125,7 +125,7 @@ The model achieved a test accuracy of 69.73% and demonstrated its ability to cor
 
 ## Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
+Contributions are welcome!
 
 ## License
 
