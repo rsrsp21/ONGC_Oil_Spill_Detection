@@ -1,6 +1,3 @@
-Certainly! Below is a README.md tailored to explain the project based on the code snippets and files you've previously described. This README will guide users through understanding, setting up, and using your oil spill detection project.
-
-```markdown
 # Oil Spill Detection Project
 
 This repository contains the implementation of an oil spill detection system using the DeepLabV3+ model with a ResNet101 backbone. The project includes a Jupyter Notebook for exploration, a dataset of labeled images, and a pre-trained model for making predictions.
