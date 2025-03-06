@@ -39,8 +39,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/oil-spill-detection.git
-   cd oil-spill-detection
+   git clone https://github.com/rsrsp21/ONGC_Oil_Spill_Detection.git
+   cd ONGC_Oil_Spill_Detection
    ```
 
 2. Extract the dataset:
