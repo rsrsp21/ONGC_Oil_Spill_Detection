@@ -1,7 +1,7 @@
 # Oil Spill Detection using DeepLabV3+ Model
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/repo?style=social)](https://github.com/your-username/repo)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/repo?style=social)](https://github.com/your-username/repo)
+[![GitHub stars](https://img.shields.io/github/stars/rsrsp21/repo?style=social)](https://github.com/rsrsp21/repo)
+[![GitHub forks](https://img.shields.io/github/forks/rsrsp21/repo?style=social)](https://github.com/rsrsp21/repo)
 
 This repository contains the implementation of an oil spill detection system using the DeepLabV3+ model with a ResNet101 backbone. The project includes a Jupyter Notebook for exploration, a dataset of labeled images, and a pre-trained model for making predictions.
 
@@ -66,26 +66,7 @@ The included Jupyter Notebook provides an interactive way to understand the data
 
 2. Open the notebook file and follow the instructions.
 
-## Using the Pre-trained Model
-
-The `model.pth` file contains a pre-trained model that can be used to make predictions on new images. To use the model:
-
-1. Load the model in a Python script:
-   ```python
-   import torch
-   model = torch.load('model.pth')
-   model.eval()
-   ```
-
-2. Preprocess your image and make predictions:
-   ```python
-   # Assuming `image` is a PIL Image object and `transform` is defined as in the notebook
-   input_tensor = transform(image).unsqueeze(0)
-   with torch.no_grad():
-       output = model(input_tensor)
-   ```
-
-## Loading the Model with Auxiliary Classifier
+## Loading the Pre-trained Model with Auxiliary Classifier
 
 To leverage the capabilities of the DeepLabV3+ model with an auxiliary classifier for oil spill detection, follow these steps to load the pre-trained model:
 
