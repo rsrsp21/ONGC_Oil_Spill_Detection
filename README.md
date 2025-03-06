@@ -1,7 +1,7 @@
 # Oil Spill Detection using DeepLabV3+ Model
 
-[![GitHub stars](https://img.shields.io/github/stars/rsrsp21/repo?style=social)](https://github.com/rsrsp21/repo)
-[![GitHub forks](https://img.shields.io/github/forks/rsrsp21/repo?style=social)](https://github.com/rsrsp21/repo)
+[![GitHub stars](https://img.shields.io/github/stars/rsrsp21/ONGC_Oil_Spill_Detection?style=social)](https://github.com/rsrsp21/ONGC_Oil_Spill_Detection)
+[![GitHub forks](https://img.shields.io/github/forks/rsrsp21/ONGC_Oil_Spill_Detection?style=social)](https://github.com/rsrsp21/ONGC_Oil_Spill_Detection)
 
 This repository contains the implementation of an oil spill detection system using the DeepLabV3+ model with a ResNet101 backbone. The project includes a Jupyter Notebook for exploration, a dataset of labeled images, and a pre-trained model for making predictions.
 
